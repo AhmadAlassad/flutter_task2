@@ -64,10 +64,10 @@ class _MainScreenState extends State<MainScreen> {
 
   List<ProductModel> products = [
     new ProductModel("Nike Shoes","Nike",
-        "shoe_2.png","123.0\$"),
+        "","123.0\$"),
     new ProductModel("Sports Shoes","Nike",
-        "shoe_1.png","103.0\$"),
+        "","103.0\$"),
     new ProductModel("Sports Shoes","Nike",
-        "shoe_2.png","103.0\$"),
+        "","103.0\$"),
   ];
 }
